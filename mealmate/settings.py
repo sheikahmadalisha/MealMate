@@ -125,3 +125,5 @@ DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 RAZORPAY_KEY_ID = ""
 RAZORPAY_KEY_SECRET = ""
+
+# cragffbhvh
